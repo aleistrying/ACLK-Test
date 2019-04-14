@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\bin\Debug\ACLKTest.exe.config
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\bin\Debug\ACLKTest.exe
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\bin\Debug\ACLKTest.pdb
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.Form1.resources
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.Properties.Resources.resources
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.exe
+C:\Users\aleja\source\repos\ACLKTest\ACLKTest\obj\Debug\ACLKTest.pdb
